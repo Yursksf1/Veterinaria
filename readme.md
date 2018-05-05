@@ -34,6 +34,12 @@ pip install -r requerimientos.txt
 python manage.py runserver
 ```
 
+# Imagenes de Guia.
+
+![Alt Text](https://github.com/Yursksf1/Veterinaria/blob/master/doc/img/004.gif)
+![Alt Text](https://github.com/Yursksf1/Veterinaria/blob/master/doc/img/005.gif)
+
+
 ## para hacer:
 una vez se realicen las devidas pruebas sobre el proyecto enviar la informacion de retro alimentacion al correo electronico 
 
